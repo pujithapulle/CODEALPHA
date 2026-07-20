@@ -164,7 +164,7 @@ Through these projects, I gained practical experience in:
 
 📍 Location: Guntur, Andhra Pradesh, India
 
-🔗 GitHub: https://github.com/PujithaPulle
+🔗 GitHub: https://github.com/pujithapulle
 
 🔗 LinkedIn: https://linkedin.com/in/pujithapulle
 
